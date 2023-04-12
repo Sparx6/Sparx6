@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a student of the Secondary Industrial School of Electrical Engineering Jecna 30, Prague, Czech Republic.
+
+🔭 I’m currently working on a new python project.
+
+💬 Ask me about anything you would like to know.
+
+📫 How to reach me: rasejevtadeas@gmail.com
