@@ -20,3 +20,4 @@ I am a student of the Secondary Industrial School of Electrical Engineering Jecn
 💬 Ask me about anything you would like to know.
 
 📫 How to reach me: rasejevtadeas@gmail.com
+                    https://www.linkedin.com/in/tadeas-rasejev-229ab31aa/
